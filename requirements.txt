@@ -1,0 +1,13 @@
+unidecode
+dill
+torch
+numpy
+transformers
+tqdm
+codecarbon
+pandas
+prometheus_api_client
+mypy
+black[jupyter]
+flake8
+isort
