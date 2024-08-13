@@ -1,6 +1,6 @@
 # <img src="docs/sources/assets/images/logo.png" style="height:1em; vertical-align: middle;"> SUrname HEritage Classifier
 
-Documentation: https://5uperpalo.github.io/suhec/
+Documentation: https://5uperpalo.github.io/surname_heritage_classifier/
 
 A hobby project to classify surnames to countries and areas of the world. An attempt for an open source alternative to paid services:
 
