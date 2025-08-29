@@ -2,7 +2,7 @@
 
 Documentation: https://5uperpalo.github.io/surname_heritage_classifier/
 
-A hobby project to classify surnames to countries and areas of the world. An attempt for an open source alternative to paid services:
+An old hobby project to classify surnames to countries and areas of the world. An attempt for an open source alternative to paid services:
 
 * https://nationalize.io/our-data
 * https://namsor.app/
